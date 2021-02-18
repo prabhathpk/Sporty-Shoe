@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/commons-logging-1.2.0.L0001.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-aop-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-aop-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-aop-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-aspects-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-aspects-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-aspects-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-beans-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-beans-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-beans-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-indexer-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-indexer-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-indexer-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-support-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-support-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-context-support-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-core-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-core-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-core-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-expression-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-expression-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-expression-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-instrument-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-instrument-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-instrument-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jcl-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jcl-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jcl-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jdbc-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jdbc-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jdbc-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jms-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jms-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-jms-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-messaging-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-messaging-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-messaging-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-orm-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-orm-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-orm-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-oxm-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-oxm-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-oxm-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-test-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-test-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-test-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-tx-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-tx-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-tx-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-web-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-web-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-web-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-webflux-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-webflux-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-webflux-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-webmvc-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-webmvc-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-webmvc-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-websocket-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-websocket-5.2.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pragathi/Desktop/java/spring-websocket-5.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
